@@ -142,7 +142,7 @@ a:active {
 
 /* To Navigation Style */
 .codrops-top {
-  background: #fff;
+  background: #FFF;
   background: rgba(255, 255, 255, 0.6);
   text-transform: uppercase;
   width: 100%;
@@ -293,7 +293,7 @@ a:active {
     width: 100%;
     height: 100%;
     
-    background-color: rgba(12, 19, 29, 0.94);
+    background-color: rgba(13, 95, 65, 0.94);
     overflow: hidden;
 }
 
@@ -668,9 +668,9 @@ input.sp-selector-5:checked ~ .sp-content .sp-slider > li:nth-child(5){
 .parlex2-back {
   padding-top: 15px;
   background-color: transparent;
-  background-image: -webkit-linear-gradient(#1a9c98, #303030);
-  background-image: -o-linear-gradient(#1a9c98, #303030);
-  background-image: linear-gradient(#1a9c98, #303030);
+  background-image: -webkit-linear-gradient(#6a3047, #303030);
+  background-image: -o-linear-gradient(#6a3047, #303030);
+  background-image: linear-gradient(#6a3047, #303030);
 }
 .process-text {
   display: block;
@@ -688,9 +688,9 @@ input.sp-selector-5:checked ~ .sp-content .sp-slider > li:nth-child(5){
 .parlex3-back {
   padding-top: 15px;
   background-color: transparent;
-  background-image: -webkit-linear-gradient(rgba(65, 187, 156, 0.99), rgba(72, 207, 173, 0.78));
-  background-image: -o-linear-gradient(rgba(65, 187, 156, 0.99), rgba(72, 207, 173, 0.78));
-  background-image: linear-gradient(rgba(65, 187, 156, 0.99), rgba(72, 207, 173, 0.78));
+  background-image: -webkit-linear-gradient(rgba(48, 48, 48, 0.99), rgba(230, 250, 230, 0.78));
+  background-image: -o-linear-gradient(rgba(48, 48, 48, 0.99), rgba(230, 250, 230, 0.78));
+  background-image: linear-gradient(rgba(48, 48, 48, 0.99), rgba(230, 250, 230, 0.78));
 }
 
 /* portfolio */
@@ -840,9 +840,9 @@ box-shadow: 5px 5px 0px #20AE61;
 .parlex4-back {
   padding-top: 15px;
   background-color: transparent;
-  background-image: -webkit-linear-gradient(#323a45, #1a9c98);
-  background-image: -o-linear-gradient(#323a45, #1a9c98);
-  background-image: linear-gradient(#323a45, #1a9c98);
+  background-image: -webkit-linear-gradient(#223c4b, #800c37);
+  background-image: -o-linear-gradient(#223c4b, #800c37);
+  background-image: linear-gradient(#223c4b, #800c37);
 }
 .ourplan-heading {
   color: white;
@@ -954,7 +954,7 @@ box-shadow: 5px 5px 0px #20AE61;
   z-index: 999;
   width: 100%;
   height: auto;
-  background-color: rgba(255, 255, 255, 1);
+  background-color: rgba(240, 240, 240, 1);
 }
 .navbar {
 }
@@ -1033,7 +1033,7 @@ box-shadow: 5px 5px 0px #20AE61;
   background-attachment: scroll;
 }
 .parlex6-back {
-  background-color: rgba(255, 255, 255, 1);
+  background-color: rgba(240, 240, 240, 1);
   -webkit-box-shadow: inset 0px -1px 0px 0px rgba(0, 0, 0, 0.67);  
   box-shadow: inset 0px -1px 0px 0px rgba(0, 0, 0, 0.26);
 }
@@ -1153,9 +1153,9 @@ box-shadow: 5px 5px 0px #20AE61;
 .exp-back {
   padding-top: 15px;
   background-color: transparent;
-  background-image: -webkit-linear-gradient(rgba(11, 128, 85, 0.70), #0b8055);
-  background-image: -o-linear-gradient(rgba(11, 128, 85, 0.70), #0b8055);
-  background-image: linear-gradient(rgba(11, 128, 85, 0.70), #0b8055);
+  background-image: -webkit-linear-gradient(rgba(11, 128, 85, 0.70), #223c4b);
+  background-image: -o-linear-gradient(rgba(11, 128, 85, 0.70), #223c4b);
+  background-image: linear-gradient(rgba(11, 128, 85, 0.70), #223c4b);
 }
 .exp-heading {
   display: block;
@@ -1251,9 +1251,9 @@ background: rgba(0, 0, 0, 0);
 
 .ex-btn-two {
   color: #FFF;
-background: #223C4B;
+background: #8d2549;
   padding: 10px;
-border: 1px solid #223C4B;
+border: 1px solid #442b44;
 border-radius: 4px ;
 font-weight: 100;
   font-size: 35px;
