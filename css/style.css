@@ -692,6 +692,18 @@ input.sp-selector-5:checked ~ .sp-content .sp-slider > li:nth-child(5){
   background-image: -o-linear-gradient(rgba(48, 48, 48, 0.99), rgba(230, 250, 230, 0.78));
   background-image: linear-gradient(rgba(48, 48, 48, 0.99), rgba(230, 250, 230, 0.78));
 }
+.parlex333 {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.parlex333-back {
+  padding-top: 15px;
+  background-color: transparent;
+  background-image: -webkit-linear-gradient(rgba(210, 230, 210, 0.78), rgba(209, 209, 212, 0.99));
+  background-image: -o-linear-gradient(rgba(210, 230, 210, 0.78), rgba(209, 209, 212, 0.99));
+  background-image: linear-gradient(rgba(210, 230, 210, 0.78), rgba(209, 209, 212, 0.99));
+}
 
 /* portfolio */
 
